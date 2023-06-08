@@ -7,13 +7,27 @@
     "start": "parcel index.html --open",
     "build": "parcel build index.html"
   },
-  "dependencies": { "parcel-bundler": "^1.6.1" },
+  "dependencies": {},
   "devDependencies": {
     "@babel/core": "7.2.0",
+    "parcel-bundler": "^1.12.5",
     "typescript": "4.4.4"
   },
   "resolutions": {
     "@babel/preset-env": "7.13.8"
   },
-  "keywords": ["javascript", "starter"]
+  "keywords": [
+    "javascript",
+    "starter"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Swinkkel/CT30A2910_Week2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Swinkkel/CT30A2910_Week2/issues"
+  },
+  "homepage": "https://github.com/Swinkkel/CT30A2910_Week2#readme"
 }
